@@ -1,9 +1,10 @@
 # SMILES-HALLUCINATION-DETECTION - Solution Report
 
-## 1. Start
+## Start
 
 ### Google Colab
 
+```python
 Downloading the project
 !git clone https://github.com/ahdr3w/SMILES-HALLUCINATION-DETECTION.git
 %cd SMILES-HALLUCINATION-DETECTION
@@ -17,7 +18,7 @@ Replacing executable files
 
 Results
 !python solution.py
-
+```
 
 ## Final solution description
 
