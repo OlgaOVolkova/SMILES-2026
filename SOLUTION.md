@@ -11,10 +11,10 @@ Downloading the project
 !pip install -r requirements.txt
 
 Replacing executable files
-!wget https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/aggregation.py
-!wget https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/probe.py
-!wget https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/splitting.py
-!wget https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/solution.py
+!wget -O aggregation.py https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/aggregation.py
+!wget -O probe.py https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/probe.py
+!wget -O splitting.py https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/splitting.py
+!wget -O solution.py https://raw.githubusercontent.com/OlgaOVolkova/SMILES-2026/main/solution.py
 
 Results
 !python solution.py
